@@ -1,0 +1,411 @@
+
+
+@media (min-width: 320px) and (max-width: 480px){
+    .header .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.header .navbar-light .navbar-nav .nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.price-inner {
+    margin-bottom: 25px;
+}
+.header .banner {
+    padding: 10px 0px;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(251 245 245 / 55%);
+    border-color: rgba(0,0,0,.1);
+}
+.header .banner h1 {
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: 40px;
+    color: #fff;
+    margin-bottom: 40px;
+}.header .btn-primary {
+    font-size: 12px;
+}
+.header .btn-info {
+    font-size: 12px;
+}
+.section h4 {
+    font-size: 15px;
+}
+.section h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.section .inner-section {
+    padding: 40px 25px;
+}
+.section .inner-section {
+    padding: 30px 20px;
+}
+.section h4 {
+    font-size: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+}
+.inner-section p {
+    font-size: 18px;
+}
+.img-fluid {
+    
+    margin-left: 5px;
+}
+.section {
+    padding: 0px 0px;
+}
+.device h4 {
+    text-align: center;
+}
+.device h1 {
+    font-size: 30px;
+}
+.device h1{
+background: url("../images/mborder.png") center bottom no-repeat;
+}
+.super h4 {
+    text-align: center;
+}
+.super h1 {
+    font-size: 30px;
+}
+.pricing h4 {
+    font-size: 12px;
+}
+.pricing h1 {
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-left: -20px;
+}
+.theme h3 span {
+    font-size: 13px;
+}
+.theme h3 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.theme .btn-primary {
+    font-size: 10px;
+    margin: 0px 0px 0px -30px;
+}
+.theme .btn-info {
+    font-size: 10px;
+}
+.price h1 {
+    font-size: 35px;
+}
+.contact h1 {
+    font-size: 24px;
+}
+.contact .btn-info {
+    font-size: 9px;
+    padding: 8px 35px;
+    margin-right: 5px;
+}
+.price-inner .price-head h2 {
+    font-size: 24px;
+}
+.price-inner .main-price h1 {
+    font-size: 30px;
+}
+.contact .main-form .form-control {
+    font-size: 15px;
+    padding: 5px;
+}
+}
+@media (min-width: 481px) and (max-width: 767px){
+ .header .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.header .navbar-light .navbar-nav .nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.header .banner {
+    padding: 10px 0px;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(251 245 245 / 55%);
+    border-color: rgba(0,0,0,.1);
+}
+.header .banner h1 {
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: 40px;
+    color: #fff;
+    margin-bottom: 40px;
+}.header .btn-primary {
+    font-size: 12px;
+}
+.header .btn-info {
+    font-size: 12px;
+}
+.section h4 {
+    font-size: 15px;
+}
+.section h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.section .inner-section {
+    padding: 40px 25px;
+}
+.section .inner-section {
+    padding: 30px 20px;
+}
+.section h4 {
+    font-size: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+}
+.inner-section p {
+    font-size: 18px;
+}
+.img-fluid {
+    
+    margin-left: 5px;
+}
+.section {
+    padding: 0px 0px;
+}
+.device h4 {
+    text-align: center;
+}
+.device h1 {
+    font-size: 30px;
+}
+.device h1{
+background: url("../images/mborder.png") center bottom no-repeat;
+}
+.super h4 {
+    text-align: center;
+}
+.super h1 {
+    font-size: 30px;
+}
+.pricing h4 {
+    font-size: 12px;
+}
+.pricing h1 {
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-left: -20px;
+}
+.theme h3 span {
+    font-size: 13px;
+}
+.theme h3 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.theme .btn-primary {
+    font-size: 10px;
+    margin: 0px 0px 0px -30px;
+}
+.theme .btn-info {
+    font-size: 10px;
+}
+.price h1 {
+    font-size: 35px;
+}
+.contact h1 {
+    font-size: 24px;
+}
+.contact .btn-info {
+    font-size: 9px;
+    padding: 8px 35px;
+    margin-right: 5px;
+}
+.price-inner .price-head h2 {
+    font-size: 24px;
+}
+.price-inner .main-price h1 {
+    font-size: 30px;
+}
+.contact .main-form .form-control {
+    font-size: 15px;
+    padding: 5px;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+     .header .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.header .navbar-light .navbar-nav .nav-link:hover {
+    background: url(../images/mborder.png) bottom left no-repeat;
+}
+.header .banner {
+    padding: 10px 0px;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(251 245 245 / 55%);
+    border-color: rgba(0,0,0,.1);
+}
+.header .banner h1 {
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: 40px;
+    color: #fff;
+    margin-bottom: 40px;
+}.header .btn-primary {
+    font-size: 12px;
+    padding: 0px;
+}
+.header .btn-info {
+    font-size: 12px;
+    padding: 0px;
+}
+.section h4 {
+    font-size: 15px;
+}
+.section h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.section .inner-section {
+    padding: 40px 25px;
+}
+.section .inner-section {
+    padding: 30px 20px;
+}
+.section h4 {
+    font-size: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+}
+.inner-section p {
+    font-size: 18px;
+}
+.img-fluid {
+    
+    margin-left: 5px;
+}
+.section {
+    padding: 0px 0px;
+}
+.device h4 {
+    text-align: center;
+}
+.device h1 {
+    font-size: 30px;
+}
+.device h1{
+background: url("../images/mborder.png") center bottom no-repeat;
+}
+.super h4 {
+    text-align: center;
+}
+.super h1 {
+    font-size: 30px;
+}
+.pricing h4 {
+    font-size: 12px;
+}
+.pricing h1 {
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-left: -20px;
+}
+.theme h3 span {
+    font-size: 13px;
+}
+.theme h3 {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.theme .btn-primary {
+    font-size: 10px;
+    margin: 0px 0px 0px -30px;
+}
+.theme .btn-info {
+    font-size: 10px;
+}
+.price h1 {
+    font-size: 35px;
+}
+.contact h1 {
+    font-size: 24px;
+}
+.contact .btn-info {
+    font-size: 9px;
+    padding: 8px 35px;
+    margin-right: 5px;
+}
+.price-inner .price-head h2 {
+    font-size: 24px;
+}
+.price-inner .main-price h1 {
+    font-size: 30px;
+}
+.contact .main-form .form-control {
+    font-size: 15px;
+    padding: 5px;
+}
+.theme .btn-primary {
+    font-size: 10px;
+    padding: 10px 10px;
+    margin: 0px 0px 0px -30px;
+}
+.theme .btn-info {
+    font-size: 10px;
+    padding: 10px 10px;
+}
+.section h4 {
+    font-size: 12px;
+}
+.inner-section p {
+    font-size: 8px;
+}
+.header .banner h1 {
+    font-size: 40px;
+}
+.header .btn-primary {
+    font-size: 12px;
+    padding: 12px 18px;
+    margin-bottom: 55px;
+}
+.header .btn-info {
+    font-size: 12px;
+    padding: 12px 18px;
+    margin-bottom: 55px;
+}
+.price-inner .price-head h2 {
+    font-size: 16px;
+}
+.price-inner .main-price h1 {
+    font-size: 16px;
+}
+.price-inner .main-price sup {
+    font-size: 10px;
+    font-weight: 600;
+}
+.price-inner .main-price p {
+    font-size: 14px;
+    font-weight: 400;
+}
+.price-inner .price-content p {
+    font-size: 13px;
+}
+.price-inner .btn-info {
+    padding: 10px 0px;
+}
+}
+
+ @media (min-width: 1025px) and (max-width: 1366px){
+    .inner-section p {
+    font-size: 12px;
+}
+.theme .btn-primary {
+    padding: 10px 25px;
+    font-size: 10px;
+}
+.theme .btn-info {
+    padding: 10px 25px;
+    font-size: 10px;
+}
+.price-inner .price-content p {
+    font-size: 16px;
+}
+ }
